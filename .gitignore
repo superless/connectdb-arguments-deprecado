@@ -9,8 +9,12 @@
 *.user
 *.userosscache
 *.sln.docstates
+<<<<<<< HEAD
 *.assets.cache
 _site/
+=======
+
+>>>>>>> 78ee2f2801d234531101f784995043f761f3e01c
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -24,6 +28,10 @@ mono_crash.*
 [Rr]eleases/
 x64/
 x86/
+<<<<<<< HEAD
+=======
+[Ww][Ii][Nn]32/
+>>>>>>> 78ee2f2801d234531101f784995043f761f3e01c
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
@@ -62,6 +70,12 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
+<<<<<<< HEAD
+=======
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+>>>>>>> 78ee2f2801d234531101f784995043f761f3e01c
 # StyleCop
 StyleCopReport.xml
 
@@ -93,12 +107,15 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+<<<<<<< HEAD
 *.cache
 *.dgspec.json
 *.g.props
 *.assets.cache
 
 
+=======
+>>>>>>> 78ee2f2801d234531101f784995043f761f3e01c
 
 # Chutzpah Test files
 _Chutzpah*
@@ -145,7 +162,13 @@ _TeamCity*
 !.axoCover/settings.json
 
 # Coverlet is a free, cross platform Code Coverage Tool
+<<<<<<< HEAD
 coverage*[.json, .xml, .info]
+=======
+coverage*.json
+coverage*.xml
+coverage*.info
+>>>>>>> 78ee2f2801d234531101f784995043f761f3e01c
 
 # Visual Studio code coverage results
 *.coverage
@@ -266,8 +289,11 @@ ServiceFabricBackup/
 *.ldf
 *.ndf
 
+<<<<<<< HEAD
 *.setting.json
 
+=======
+>>>>>>> 78ee2f2801d234531101f784995043f761f3e01c
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
@@ -359,4 +385,11 @@ healthchecksdb
 MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
+<<<<<<< HEAD
 .ionide/
+=======
+.ionide/
+
+# Fody - auto-generated XML schema
+FodyWeavers.xsd
+>>>>>>> 78ee2f2801d234531101f784995043f761f3e01c
